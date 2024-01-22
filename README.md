@@ -11,7 +11,12 @@ Every time I visit, I like the welcoming ambiance, the food's flavor, and the at
 
 ---
 
-# Fav Items
+## Fav Items
 1. Grilled Chicken
 2. Fried Rice
 3. Butter Naan
+
+## Places NearBy
+* Stadium
+* Shopping Malls
+* Some other Food Courts
