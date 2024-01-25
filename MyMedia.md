@@ -29,3 +29,21 @@ To get the most current information on popular bands in Hyderabad, I recommend c
 > Flute jinka mundu oodu simham mundu kadu - *Balaya Babu*
 
 > Evadu padithe vadu Buddodu Buddodu ante guddalu oodateesi kodathanu - *Jr NTR*
+
+***
+
+### Code Fencing - SQL code snippets
+
+##### Left-Join
+
+The Left Join command in SQL returns all records from the left table and the matching records from the right table. The result is no records from the right side if there is not a match.
+
+```
+SELECT column_name(s)
+FROM table1
+LEFT JOIN table2
+ON table1.column_name = table2.column_name;
+
+```
+
+<https://code.pieces.app/collections/sql>
