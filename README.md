@@ -20,3 +20,5 @@ Every time I visit, I like the welcoming ambiance, the food's flavor, and the at
 * Stadium
 * Shopping Malls
 * Some other Food Courts
+
+[My Media](./MyMedia.md)
