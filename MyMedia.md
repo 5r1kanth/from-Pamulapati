@@ -23,6 +23,9 @@ To get the most current information on popular bands in Hyderabad, I recommend c
 ### Motivational Quoted
 
 > Don't kill so many like this, Only once, Fasak - *Mohan Babu*
+
 > Evadu kodite dimma tirigi mind block ipoddo ade pandu gadu - *Mahesh Babu*
+
 > Flute jinka mundu oodu simham mundu kadu - *Balaya Babu*
+
 > Evadu padithe vadu Buddodu Buddodu ante guddalu oodateesi kodathanu - *Jr NTR*
